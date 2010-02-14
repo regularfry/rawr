@@ -227,12 +227,6 @@ lib/rawr_environment.rb
 lib/rawr_version.rb
 lib/shell_bundler.rb
 lib/web_bundler.rb
-lib/zip/ioextras.rb
-lib/zip/stdrubyext.rb
-lib/zip/tempfile_bugfixed.rb
-lib/zip/zip.rb
-lib/zip/zipfilesystem.rb
-lib/zip/ziprequire.rb
 tasks/ann.rake
 tasks/bones.rake
 tasks/gem.rake
